@@ -4,3 +4,10 @@ FileMakerをJSで拡張して、画像付きリッチテキストドキュメン
 ### 管理者権限付き
 - account : admin
 - password : なし,null
+
+
+#### マークダウンレンダリング・画像をドラッグでサイズ変更
+Mdt.fmp12
+
+#### 正規表現
+wvRegex.fmp12
